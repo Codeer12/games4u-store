@@ -1,2 +1,2 @@
 # games4u-store
-The Games4U Store repo. 
+The Games4U Store repo. This is only used for updates.
